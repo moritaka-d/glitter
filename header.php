@@ -74,8 +74,3 @@ gtag('config', 'UA-133172270-1');
 					echo '</nav>';
 				  	} //END モバイル用ナビ ?>
 			</header>
-
-
-
-
-			
